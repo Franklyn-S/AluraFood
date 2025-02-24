@@ -1,0 +1,3 @@
+[submodule "pagamentos"]
+	path = pagamentos
+	url = git@github.com:Franklyn-S/alurafood-payment.git
