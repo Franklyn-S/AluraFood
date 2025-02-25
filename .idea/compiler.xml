@@ -7,9 +7,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="pagamentos" />
+        <module name="pedidos" />
         <module name="service-discovery" />
         <module name="gateway" />
-        <module name="pedidos" />
       </profile>
       <profile name="Annotation profile for pagamentos" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -27,6 +28,7 @@
       <module name="gateway" options="-parameters" />
       <module name="pagamentos" options="-parameters" />
       <module name="pedidos" options="-parameters" />
+      <module name="server" options="-parameters" />
       <module name="service-discovery" options="-parameters" />
     </option>
   </component>
