@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="server" />
+        <module name="alura-aws-infra" />
         <module name="pedidos" />
         <module name="service-discovery" />
         <module name="gateway" />
