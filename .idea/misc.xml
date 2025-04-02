@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/service-discovery/pom.xml" />
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
         <option value="$PROJECT_DIR$/alura-aws-infra/pom.xml" />
+        <option value="$PROJECT_DIR$/avaliacao/pom.xml" />
       </list>
     </option>
   </component>

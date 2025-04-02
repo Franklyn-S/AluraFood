@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/alura-aws-infra/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/alura-aws-infra/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/avaliacao/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pagamentos/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pedidos/src/main/java" charset="UTF-8" />

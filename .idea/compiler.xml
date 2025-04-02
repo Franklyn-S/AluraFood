@@ -10,6 +10,7 @@
         <module name="server" />
         <module name="alura-aws-infra" />
         <module name="pedidos" />
+        <module name="avaliacao" />
         <module name="service-discovery" />
         <module name="gateway" />
       </profile>
@@ -26,6 +27,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="avaliacao" options="-parameters" />
       <module name="gateway" options="-parameters" />
       <module name="pagamentos" options="-parameters" />
       <module name="pedidos" options="-parameters" />
